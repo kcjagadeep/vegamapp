@@ -1,16 +1,9 @@
-# m2
+# Vegam.App 
+Version - Beta Test
+Vegam.App Application Documentation
 
-A new Flutter project.
+# Overview: 
+Vegam. App platform streamlines the process of developing applications for Magento stores and lets you create stunning apps for iPhone and Android devices using a unified, intelligent codebase. This platform is more than just a utility; it is your partner in customizing your store's digital footprint that utilizes a singular codebase to reduce development time and improve your store's online visibility.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Vegam.App Application Documentation
+https://docs.google.com/document/d/1afybynu3ZiqbCycqsrbsz3vpbSFy4AxJcdLCchkWTtY/edit?usp=sharing
